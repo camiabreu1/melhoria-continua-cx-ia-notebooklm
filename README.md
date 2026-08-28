@@ -1,4 +1,4 @@
-## 1. Sobre o Projet
+## 1. Sobre o Projeto
 ## 2. Contexto
 ## 3. Objetivos de Estudo
 ## 4. Pergunta Norteadora
