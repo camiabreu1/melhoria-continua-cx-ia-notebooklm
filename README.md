@@ -34,14 +34,14 @@ Como dados, indicadores de atendimento e Inteligência Artificial podem ajudar e
 
 Os principais objetivos deste projeto são:
 
-* compreender as diferenças entre Atendimento, Customer Success e Customer Experience;
-* conhecer os principais indicadores utilizados nas áreas de atendimento, CS e CX;
-* compreender conceitos como CSAT, NPS, CES, FCR, tempo de resposta e tempo de resolução;
-* estudar como utilizar a Voz do Cliente para identificar oportunidades;
-* compreender a aplicação do ciclo PDCA na melhoria de processos;
-* analisar possíveis aplicações da Inteligência Artificial no atendimento;
-* relacionar dados de atendimento com análises e dashboards;
-* entender como o Power BI pode apoiar decisões relacionadas à experiência do cliente.
+- compreender as diferenças entre Atendimento, Customer Success e Customer Experience;
+- conhecer os principais indicadores utilizados nas áreas de atendimento, CS e CX;
+- compreender conceitos como CSAT, NPS, CES, FCR, tempo de resposta e tempo de resolução;
+- estudar como utilizar a Voz do Cliente para identificar oportunidades;
+- compreender a aplicação do ciclo PDCA na melhoria de processos;
+- analisar possíveis aplicações da Inteligência Artificial no atendimento;
+- relacionar dados de atendimento com análises e dashboards;
+- entender como o Power BI pode apoiar decisões relacionadas à experiência do cliente.
 
 ⸻
 
@@ -51,54 +51,64 @@ Para a construção do caderno temático foram selecionadas fontes abertas relac
 
 Fonte 1 — ASQ: Plan-Do-Check-Act Cycle
 
+**Link:** https://asq.org/quality-resources/pdca-cycle
+
 Tema estudado:
 
-* melhoria contínua;
-* ciclo PDCA;
-* planejamento e execução de mudanças;
-* análise de resultados;
-* padronização.
+- melhoria contínua;
+- ciclo PDCA;
+- planejamento e execução de mudanças;
+- análise de resultados;
+- padronização.
 
 Fonte 2 — Zendesk: Customer Success vs. Customer Experience
 
+**Link:** https://www.zendesk.com/blog/customer-service/customer-success/customer-success-vs-customer-experience/
+
 Tema estudado:
 
-* Customer Success;
-* Customer Experience;
-* diferenças entre CS e CX;
-* jornada do cliente;
-* geração de valor.
+- Customer Success;
+- Customer Experience;
+- diferenças entre CS e CX;
+- jornada do cliente;
+- geração de valor.
 
 Fonte 3 — Zendesk: Customer Service Metrics
 
-Tema estudado:
-
-* indicadores de atendimento;
-* CSAT;
-* CES;
-* NPS;
-* tempo de resposta;
-* tempo de resolução;
-* eficiência operacional.
-
-Fonte 4 — Qualtrics: Customer Effort Score
+**Link:** https://www.zendesk.com/blog/customer-service/satisfaction/customer-service-metrics-matter/
 
 Tema estudado:
 
-* Customer Effort Score;
-* esforço do cliente;
-* pontos de atrito;
-* experiência do cliente.
+- indicadores de atendimento;
+- CSAT;
+- CES;
+- NPS;
+- tempo de resposta;
+- tempo de resolução;
+- eficiência operacional.
 
-Fonte 5 — Microsoft: Customer Service Analytics
+Fonte 4 — Qualtrics: Customer Effort Score (CES)
+
+**Link:** https://www.qualtrics.com/en-gb/articles/customer-experience/customer-effort-score/
 
 Tema estudado:
 
-* análise de dados;
-* dashboards;
-* KPIs;
-* Power BI;
-* Inteligência Artificial aplicada ao Customer Service.
+- Customer Effort Score;
+- esforço do cliente;
+- pontos de atrito;
+- experiência do cliente.
+
+Fonte 5 — Microsoft Learn: Customer Service dashboards
+
+**Link:** https://learn.microsoft.com/en-us/dynamics365/customer-service/use/customer-service-analytics-insights-csh/
+
+Tema estudado:
+
+- análise de dados;
+- dashboards;
+- KPIs;
+- Power BI;
+- Inteligência Artificial aplicada ao Customer Service.
 
 ⸻
 
@@ -240,16 +250,7 @@ Padronizar a melhoria quando ela apresenta bons resultados ou iniciar um novo ci
 
 📈 Principais indicadores
 
-Indicador	Significado	Aplicação
-CSAT	Customer Satisfaction Score	Avalia satisfação
-CES	Customer Effort Score	Avalia esforço do cliente
-NPS	Net Promoter Score	Avalia propensão à recomendação
-FCR	First Contact Resolution	Avalia resolução no primeiro contato
-FRT	First Response Time	Avalia velocidade da primeira resposta
-TMA/AHT	Tempo Médio de Atendimento	Avalia duração das interações
-Tempo de resolução	Tempo necessário para solucionar uma solicitação	Avalia eficiência
-Recontato	Clientes que retornam pelo mesmo motivo	Avalia efetividade da solução
-Churn	Perda de clientes	Avalia retenção
+Indicador Significado Aplicação CSAT Customer Satisfaction Score Avalia satisfação CES Customer Effort Score Avalia esforço do cliente NPS Net Promoter Score Avalia propensão à recomendação FCR First Contact Resolution Avalia resolução no primeiro contato FRT First Response Time Avalia velocidade da primeira resposta TMA/AHT Tempo Médio de Atendimento Avalia duração das interações Tempo de resolução Tempo necessário para solucionar uma solicitação Avalia eficiência Recontato Clientes que retornam pelo mesmo motivo Avalia efetividade da solução Churn Perda de clientes Avalia retenção
 
 Os indicadores devem ser analisados de forma integrada.
 
@@ -263,16 +264,16 @@ A Voz do Cliente reúne diferentes informações capazes de mostrar como os clie
 
 Entre elas:
 
-* pesquisas de satisfação;
-* CSAT;
-* CES;
-* NPS;
-* reclamações;
-* elogios;
-* comentários;
-* avaliações;
-* motivos de contato;
-* histórico de atendimento.
+- pesquisas de satisfação;
+- CSAT;
+- CES;
+- NPS;
+- reclamações;
+- elogios;
+- comentários;
+- avaliações;
+- motivos de contato;
+- histórico de atendimento.
 
 A análise conjunta dessas informações ajuda a identificar pontos de atrito e oportunidades de melhoria.
 
@@ -282,16 +283,16 @@ A análise conjunta dessas informações ajuda a identificar pontos de atrito e 
 
 A Inteligência Artificial pode contribuir para operações de atendimento por meio de atividades como:
 
-* classificação automática dos motivos de contato;
-* análise de sentimentos;
-* identificação de reclamações recorrentes;
-* agrupamento de assuntos semelhantes;
-* identificação de tendências;
-* geração de resumos de atendimentos;
-* apoio ao atendente durante a interação;
-* identificação de oportunidades de melhoria;
-* análise de grandes volumes de feedback;
-* criação de insights para tomada de decisão.
+- classificação automática dos motivos de contato;
+- análise de sentimentos;
+- identificação de reclamações recorrentes;
+- agrupamento de assuntos semelhantes;
+- identificação de tendências;
+- geração de resumos de atendimentos;
+- apoio ao atendente durante a interação;
+- identificação de oportunidades de melhoria;
+- análise de grandes volumes de feedback;
+- criação de insights para tomada de decisão.
 
 O objetivo da IA não deve ser apenas automatizar atividades, mas transformar dados em informações úteis para apoiar pessoas e decisões.
 
@@ -305,13 +306,13 @@ Um dashboard de Customer Experience poderia apresentar:
 
 Visão Executiva
 
-* total de atendimentos;
-* CSAT;
-* CES;
-* NPS;
-* FCR;
-* tempo médio de resolução;
-* recontatos.
+- total de atendimentos;
+- CSAT;
+- CES;
+- NPS;
+- FCR;
+- tempo médio de resolução;
+- recontatos.
 
 Principais motivos
 
@@ -417,14 +418,14 @@ Como evolução deste projeto, é possível desenvolver uma base fictícia de at
 
 Entre as análises futuras estão:
 
-* evolução do CSAT;
-* volume de atendimentos;
-* FCR;
-* reincidência;
-* motivos de contato;
-* desempenho por canal;
-* tempo médio de resolução;
-* análise da Voz do Cliente;
-* identificação dos principais pontos de atrito.
+- evolução do CSAT;
+- volume de atendimentos;
+- FCR;
+- reincidência;
+- motivos de contato;
+- desempenho por canal;
+- tempo médio de resolução;
+- análise da Voz do Cliente;
+- identificação dos principais pontos de atrito.
 
 Dessa forma, o conhecimento construído no NotebookLM poderá ser transformado em uma aplicação prática de análise de dados e Business Intelligence.
